@@ -1,6 +1,6 @@
 -   id: gts
     name: gts
-    entry: gts
+    entry: npx gts
     language: node
     'types': [javascript]
     args: []
