@@ -5,4 +5,4 @@
     'types': [javascript]
     args: []
     require_serial: false
-    additional_dependencies: ["gts@0.5.1"]
+    additional_dependencies: ["gts@0.5.2"]
